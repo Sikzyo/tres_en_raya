@@ -1,2 +1,5 @@
-# tres_en_raya
-Segundo tutorial del curso de midudev para aprender react
+# Proyecto del juego tres en raya
+
+Este es el segundo ejercicio del curso de react de midudev.
+
+En este se va a realizar un juego de tres en raya.
